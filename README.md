@@ -1,7 +1,9 @@
 # Clasificación-de-imágenes-para-la-detección-de-personas-mediante-Deep-Learning
 
-Juan Esteban Chavarría Serna 
+Juan Esteban Chavarría Serna
+
 Jonathan Stiven Zapata 
+
 Juan Fernando Gallego 
 
 # Resumen
