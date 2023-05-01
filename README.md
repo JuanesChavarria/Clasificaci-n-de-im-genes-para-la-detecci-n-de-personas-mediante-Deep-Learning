@@ -1,8 +1,8 @@
 # Clasificación-de-imágenes-para-la-detección-de-personas-mediante-Deep-Learning
 
-Juan Esteban Chavarría Serna
-Jonathan Stiven Zapata
-Juan Fernando Gallego
+Juan Esteban Chavarría Serna 
+Jonathan Stiven Zapata 
+Juan Fernando Gallego 
 
 # Resumen
 Este proyecto tiene como objetivo desarrollar un modelo que pueda detectar la presencia o ausencia de personas en un conjunto de imágenes utilizando redes neuronales convolucionales (CNN). 
